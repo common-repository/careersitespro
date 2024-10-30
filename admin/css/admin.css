@@ -1,0 +1,16 @@
+/**
+ * Admin specific css
+ */
+#careersitespro .form-table th,#careersitespro .form-table td{
+    padding:10px 0px !important;
+    vertical-align: middle;
+}
+
+#careersitespro .form-table .wp-picker-container .wp-color-result.button{
+    margin: 0px;
+}
+
+#careersitespro .map-table{}
+#careersitespro .col-md-3{float: left; width: 100%; margin-bottom: 10px; }
+#careersitespro .map-table span.span-1{display: inline-block; float: left; }
+#careersitespro .span-2{display: inline-block;line-height: 30px; width: 100px; float: left;}
